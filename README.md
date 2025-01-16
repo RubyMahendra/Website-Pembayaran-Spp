@@ -17,15 +17,15 @@ Website SPP Sekolah Dibuat Dengan :
 # Login 
 
 - ADMIN
-username : admin123
+username : vivy123
 password : password
 
 - PETUGAS
-username : elaina123
+username : joyo
 password : password
 
 - SISWA
-username : diva123
+username : ruby
 password : password
 
 # ROLE USER
